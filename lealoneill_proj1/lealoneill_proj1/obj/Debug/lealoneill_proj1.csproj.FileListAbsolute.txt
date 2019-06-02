@@ -1,0 +1,6 @@
+D:\School\CSUSM\Spring 2017\CS 471\lealoneill_proj1\lealoneill_proj1\lealoneill_proj1\bin\Debug\lealoneill_proj1.exe.config
+D:\School\CSUSM\Spring 2017\CS 471\lealoneill_proj1\lealoneill_proj1\lealoneill_proj1\bin\Debug\lealoneill_proj1.exe
+D:\School\CSUSM\Spring 2017\CS 471\lealoneill_proj1\lealoneill_proj1\lealoneill_proj1\bin\Debug\lealoneill_proj1.pdb
+D:\School\CSUSM\Spring 2017\CS 471\lealoneill_proj1\lealoneill_proj1\lealoneill_proj1\obj\Debug\lealoneill_proj1.csprojResolveAssemblyReference.cache
+D:\School\CSUSM\Spring 2017\CS 471\lealoneill_proj1\lealoneill_proj1\lealoneill_proj1\obj\Debug\lealoneill_proj1.exe
+D:\School\CSUSM\Spring 2017\CS 471\lealoneill_proj1\lealoneill_proj1\lealoneill_proj1\obj\Debug\lealoneill_proj1.pdb
